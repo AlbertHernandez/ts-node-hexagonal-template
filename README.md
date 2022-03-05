@@ -1,8 +1,8 @@
 <h1 align="center">🚀</h1>
-<h3 align="center">TS Node Request Validation Joi</h3>
+<h3 align="center">TS Node Hexagonal Template</h3>
 
 <p align="center">
- Example of a Node application that uses joi for validating requests
+ Template for a basic Node application that uses hexagonal architecture
 </p>
 
 ## Table of Contents
